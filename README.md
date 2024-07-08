@@ -3,7 +3,7 @@
 
 
 - 🔭 A procura de um trabalho com desenvolvimento mobile ou automação
-- 🌱 Estudando dart/flutter
+- 🌱 Estudando ruby/ruby on rails
 
 
 
@@ -13,6 +13,7 @@
   <img align="center" alt="ctrlahr-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="ctrlahr-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg">
   <img align="center" alt="ctrlahr-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
+  <img align="center" alt="ctrlahr-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 </div>
 
 ##
