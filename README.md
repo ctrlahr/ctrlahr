@@ -3,7 +3,7 @@
 
 
 - 🔭 A procura de um trabalho com desenvolvimento mobile ou automação
-- 🌱 Estudando ruby/ruby on rails
+- 🌱 Estudando programação mobile com kotlin
 
 
 
