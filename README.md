@@ -31,7 +31,7 @@
   <img width="12" />
 </div>
 
-![ctrlah's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ctrlah&theme=dark&hide_border=false)
-
-**![ctrlah's Stats](https://github-readme-stats.vercel.app/api?username=ctrlah&theme=dark&show_icons=true&hide_border=false&count_private=true)**
+![ctrlahr's Stats](https://github-readme-stats.vercel.app/api?username=ctrlahr&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![ctrlahr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ctrlahr&theme=dark&hide_border=false)
+![ctrlahr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlahr&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
