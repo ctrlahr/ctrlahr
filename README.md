@@ -5,6 +5,9 @@
 <h1 align="center">Hey, what's up?</h1>
 
 ###
+<p>Programming student, currently focused on backend development with Java and Spring Boot. Currently working on the backend of a personal project.</p>
+
+###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
