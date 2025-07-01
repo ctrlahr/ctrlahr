@@ -34,4 +34,4 @@
   <img width="12" />
 </div>
 
-![ctrlahr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ctrlahr&theme=dark&hide_border=false)
+![ctrlahr's Stats](https://github-readme-stats.vercel.app/api?username=ctrlahr&theme=tokyonight&show_icons=true&hide_border=false&count_private=true) ![ctrlahr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ctrlahr&theme=tokyonight&hide_border=false)
