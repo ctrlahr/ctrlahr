@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">Hello, I'm Jorge from brazil<br><br>- 🔭 I’m a student <br>- 📚 I'm currently learning java for backend</p>
+<p align="left">Hello, I'm Jorge from brazil<br><br>- Backend student <br>- currently learning java for backend</p>
 
 ###
 
